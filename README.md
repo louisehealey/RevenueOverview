@@ -1,16 +1,17 @@
-# OpenOrderReport
+# Revenue Overview Report
 
 The **Revenue Overview** Power BI dashboard offers a clear summary of **Total Revenue** by **Month** and **Quarter**. Interactive bullet charts enable users to easily track revenue performance against defined targets, supporting better visibility and goal management.
 
-![OpenOrderReport Screenshot](https://raw.githubusercontent.com/louisehealey/OpenOrderReport/main/OpenOrdeReport.png)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/louisehealey/RevenueOverview/main/RevenueTracker.png" width="600"/>
+</p>
 ---
 
-## ⏱️ Last Data Refresh
+## 🔄 Dynamic Dashboard Title
 
-The report uses [worldtimeapi.org](https://worldtimeapi.org/api/timezone/America/New_York) to display the last time the dataset was refreshed when using **Import Mode**.
+As the user selects the desired year, the title of the report updates accordingly. 
 
-![Refresh Screenshot](https://raw.githubusercontent.com/louisehealey/OpenOrderReport/main/Refresh%20Pic.png)
+
 
 ---
 
