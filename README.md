@@ -22,5 +22,10 @@ RETURN
 </p>
 ---
 
+## 📂 Quarter and Month Tabs
 
----
+Using buttons and custom bookmarks, the report is organized into separate tabs, allowing for easier navigation between different time views—such as quarterly and monthly data.
+INSERT TAB CHANGING GIF
+
+## ℹ️ Tool Tips
+Using both the default and custom tool tips, I am able to give more context to the report. In addtion to the defualt tool tips ( **Total Revenue %**  and **Total Goal**) I provide exact figures for the Total Revenue in Dollars ( **Total Revenue ($$)** )and the Total Goal in Dollars (**Total Goal ($$)**). These custom tooltips allow me to give the user additional data points without over crowding the visual, making the report easy and fast to digest. 
